@@ -1,0 +1,5 @@
+f2=open("friends.txt",'w')
+f2.write('friend1\n')
+f2.write('friend2\n')
+f2.write('friend3\n')
+f2.close()
